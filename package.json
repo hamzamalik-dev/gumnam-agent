@@ -7,7 +7,7 @@
     "start": "node bot.cjs"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^6.5.0",
+    "@adiwajshing/baileys": "latest",
     "pino": "^8.0.0",
     "qrcode-terminal": "^0.12.0"
   }
